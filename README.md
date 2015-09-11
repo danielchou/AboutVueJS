@@ -1,3 +1,5 @@
-# My Awesome Book
+# About VueJS
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+一套以簡單、彈性的API來提供資料驅動的網頁元件
+來建立現代前端網頁的函數庫。
+
